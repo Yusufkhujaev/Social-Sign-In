@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+<<<<<<< HEAD
+				<string>PUT YOUR ID HERE</string>
+=======
+				<string>fb276000494393285</string>
+>>>>>>> 17f7ba4 (Initial Commit)
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+<<<<<<< HEAD
+				<string>PUT YOUR ID HERE</string>
+=======
+				<string>com.googleusercontent.apps.1054103043390-ic1lstj5c1cgi3emt2gvcefu93nh892f</string>
+>>>>>>> 17f7ba4 (Initial Commit)
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+<<<<<<< HEAD
+	<string></string>
+	<key>FacebookClientToken</key>
+	<string></string>
+=======
+	<string>276000494393285</string>
+	<key>FacebookClientToken</key>
+	<string>ec49fe4baca4fb72a7ec0ef21c16345b</string>
+>>>>>>> 17f7ba4 (Initial Commit)
+	<key>FacebookDisplayName</key>
+	<string>signin</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+	</dict>
+</dict>
+</plist>
